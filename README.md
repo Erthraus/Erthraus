@@ -1,6 +1,6 @@
 <h1 align="center">Hello There, I'm Mustafa Kemal ÖZ</h1>
 <h3 align="center">A Computer Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1833531164450292807/B7D945885D73BB7A5975A3994040CA1C7ED65965/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Erthraus" width="600" src="https://steamuserimages-a.akamaihd.net/ugc/1833531164450292807/B7D945885D73BB7A5975A3994040CA1C7ED65965/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 - 🌱 I’m currently learning **Game Development**
 
 <h3 align="left">Connect with me:</h3>

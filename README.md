@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erthraus&label=Profile%20views&color=c20a0a&style=plastic" alt="erthraus" /> </p>
 <h1 align="center">👋🏼 Hello There, I'm Mustafa Kemal ÖZ</h1>
-<h3 align="center">Computer Engineering Student and Undergraduate Teaching Assistant at Çankaya University</h3>
+<h3 align="center">Computer Science Student at Hacettepe University</h3>
 <img align="right" alt="Erthraus" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/1833531164450292807/B7D945885D73BB7A5975A3994040CA1C7ED65965/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 - 🧑🏼‍💻 I’m currently learning "Game Development" <br>

@@ -2,8 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=erthraus&label=Profile%20views&color=c20a0a&style=flat" alt="erthraus" />
   
   <h1>👋 Hello There! I'm Mustafa Kemal ÖZ</h1>
-  <h3>Computer Science Undergraduate at Hacettepe University 🎓</h3>
-  <p><b>Game Developer | Guitarist 🎸 | Analytical Thinker</b></p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F71E1E&center=true&vCenter=true&width=500&lines=Game+Developer+%2F+CS+Student;Hacettepe+University+%F0%9F%8E%93;Metalhead+%26+Guitarist+%F0%9F%A4%98;Analytical+Thinker" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -14,10 +16,10 @@
 <td width="55%" valign="center">
 
 ### 🚀 About Me
-- 🧑🏼‍💻 I’m currently focused on **Game Development** (Unity & Unreal).
-- 🎓 Studying Computer Science at **Hacettepe University**.
-- 🤘 I'm a **Metalhead** 🔥
-- 🎨 Passionate about **VFX and Editing**.
+- 🧑🏼‍💻 **Game Dev Focus:** Currently specializing in **Unity & Unreal Engine**.
+- 🎓 **Education:** Computer Science Undergraduate at **Hacettepe University**.
+- 🤘 **Metalhead & Guitarist** 🎸
+- 🎨 **Creative Side:** Passionate about **VFX** and **Video Editing**.
 
 ### 📫 Connect with Me
 <p align="left">
@@ -33,9 +35,9 @@
 </p>
 
 </td>
-<td width="40%" valign="center">
+<td width="45%" valign="center">
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1833531164450292807/B7D945885D73BB7A5975A3994040CA1C7ED65965/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" style="border-radius:10px;" alt="Ghostrunner Art">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1833531164450292807/B7D945885D73BB7A5975A3994040CA1C7ED65965/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" style="border-radius:12px;" alt="Ghostrunner Art">
 </div>
 </td>
 </tr>
@@ -44,9 +46,10 @@
 
 <br/>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">⚔️ Arsenal & Tools</h3>
 <div align="center">
 
+<p align="center" style="font-weight: bold; margin-bottom: 5px;">Languages</p>
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </a>
@@ -60,8 +63,9 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </a>
 
-<br/>
+<br/><br/>
 
+<p align="center" style="font-weight: bold; margin-bottom: 5px;">Game Engines</p>
 <a href="https://unity.com/" target="_blank">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </a>
@@ -69,8 +73,9 @@
   <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
 </a>
 
-<br/>
+<br/><br/>
 
+<p align="center" style="font-weight: bold; margin-bottom: 5px;">Creative Suite</p>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
 </a>

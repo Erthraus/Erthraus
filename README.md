@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=erthraus&label=Profile%20views&color=c20a0a&style=flat" alt="erthraus" />
   
-  <h1>👋 Hello, I'm Mustafa Kemal ÖZ</h1>
+  <h1>👋 Hello There! I'm Mustafa Kemal ÖZ</h1>
   <h3>Computer Science Undergraduate at Hacettepe University 🎓</h3>
-  <p><b>Game Developer | Analytical Thinker</b></p>
+  <p><b>Game Developer | Guitarist 🎸 | Analytical Thinker</b></p>
 </div>
 
 <br/>
@@ -14,15 +14,22 @@
 <td width="55%" valign="center">
 
 ### 🚀 About Me
-- 🧑🏼‍💻 I’m currently focused on **Game Development**.
+- 🧑🏼‍💻 I’m currently focused on **Game Development** (Unity & Unreal).
 - 🎓 Studying Computer Science at **Hacettepe University**.
+- 🤘 I'm a **Metalhead** 🔥
 - 🎨 Passionate about **VFX and Editing**.
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/mustafakemaloz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mustafa Kemal LinkedIn"/></a>
-<a href="https://instagram.com/erthraus" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="erthraus Instagram"/></a>
-<a href="ozmustafakemal@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
+  <a href="https://www.linkedin.com/in/mustafakemaloz/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mustafa Kemal LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/erthraus" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram_(Guitar)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="erthraus Instagram"/>
+  </a>
+  <a href="mailto:ozmustafakemal@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
 </p>
 
 </td>
@@ -40,17 +47,39 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</a>
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</a>
 
 <br/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+
+<a href="https://unity.com/" target="_blank">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+</a>
+<a href="https://www.unrealengine.com/" target="_blank">
+  <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+</a>
+
+<br/>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+</a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro"/>
+</a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
+</a>
 
 </div>
 
